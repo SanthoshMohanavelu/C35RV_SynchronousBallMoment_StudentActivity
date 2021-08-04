@@ -1,5 +1,5 @@
 var hypnoticBall, database;
-var position;
+var position
 
 
 function setup(){
